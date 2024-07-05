@@ -14,6 +14,9 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+# MAC
+.DS_Store
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
@@ -58,7 +61,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
 *.app
 
 # Crashlytics generated file

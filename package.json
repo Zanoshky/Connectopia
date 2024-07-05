@@ -1,0 +1,26 @@
+{
+    "name": "com.zanoshky.connectopia",
+    "version": "1.0.0",
+    "displayName": "Connectopia",
+    "description": "Comprehensive package for variable management, event triggering, and data persistence.",
+    "unity": "2020.3",
+    "license": "CC0-1.0",
+    "keywords": [
+      "variables",
+      "events",
+      "persistence"
+    ],
+    "author": {
+      "name": "Marko Zanoski",
+      "email": "zanoski.marko@gmail.com",
+      "url": "https://zanoski.com"
+    },
+    "samples": [
+      {
+        "displayName": "Demo Scene",
+        "description": "Unity scene to test Connectopia on",
+        "path": "Runtime/Zanoshky/Demo"
+      }
+    ]
+  }
+  
